@@ -27,5 +27,10 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "- Create your own T-shirt designs from scratch.💯 - Customize everything from color to logo to background as per your wish.⚡ - See your changes real time through a 3D Model.🤩 - Add your own files to customize logo and background of your t-shirt.🔍 - Download a png image of your customized t-shirt.💥",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
